@@ -20,7 +20,7 @@ The Ultimate Tab Management Tool I Envisioned - A Chrome extension that revoluti
 - Keep your bookmarks organized and relevant
 - Switch between different bookmark sets seamlessly
 
-### 🎨 Customizable Grouping Rules
+### Customizable Grouping Rules
 - Create flexible tab grouping rules based on:
   - Domain patterns
   - URL patterns
